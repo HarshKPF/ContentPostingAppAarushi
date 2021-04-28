@@ -21,7 +21,7 @@ Chart.defaults.defaultFontColor = '#646470'; // eslint-disable-next-line no-unus
 var cardChart1 = new Chart(document.getElementById('card-chart1'), {
   type: 'line',
   data: {
-    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+    labels: ['Samiksha','Aarushi','Manas','Chirag'],
     datasets: [{
       label: 'My First dataset',
       backgroundColor: 'transparent',
